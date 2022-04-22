@@ -102,7 +102,6 @@ public class MainActivity extends AppCompatActivity {
             elementList.add(new ListElement("Alixc", "Crassula ovata", "Patio", 15, 20, true, true));
         }*/
         //loadApi("http://192.168.1.12/api"); // api servidor esp
-
         getInten();
         onApiReady();
         loadApi("http://" + getResources().getString(R.string.ip_esp8266) + "/api");

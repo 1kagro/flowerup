@@ -4,12 +4,32 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="home">Inicio</string>
     <string name="search">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="pass2">Confirmar Contraseña</string>
+    <string name="ter">Autorizo el</string>
+    <string name="ter2">tratamiento de datos personales</string>
+    <string name="pr">\u2022 La protección de los datos personales está consagrada en el artículo 15 de la Constitución Política como el derecho fundamental que tienen todas las personas a conservar su intimidad personal y familiar y su buen nombre, lo mismo que conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellos en bancos de datos y en archivos de las entidades públicas y privadas. A su vez, el articulo 20 ibídem garantiza a toda persona el derecho fundamental de informar y recibir información veraz e imparcial.\n
+
+\u2022 En desarrollo de los preceptos constitucionales antes citados, el Congreso de la República expidió la Ley 1266 de 2008, con el objeto desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos personales.\n
+
+\u2022 A su turno, el artículo 17 de la Ley Estatutaria 1581 de 2012, “Régimen General de Protección de Datos Personales, y el articulo 2 2.2. 25. 3.1. del Decreto 1074 de 2015, “Decreto Único Reglamentario del Sector Comercio Industria y Turismo”, consagraron la necesidad de garantizar de forma integral la protección y el ejercicio del derecho fundamental de Habeas Data y estableció dentro de los deberes de los responsables del tratamiento de datos personales. desarrollar políticas para este derecho.\n
+
+\u2022 La Ley 1712 de 2014, sobre transparencia y derecho de acceso a la información pública nacional, adiciona nuevos principios, conceptos y procedimientos para el ejercicio y garantía del referido derecho; junto con lo dispuesto en el Libro 2. Parte VIII, Título IV “Gestión de la Información Clasificada y Reservada” del Decreto 1080 de 2015, ”por medio del cual se expide el Decreto Reglamentario Único del Sector Cultura”, que establece disposiciones sobre el acceso a datos personales en posesión de los sujetos obligados.\n
+
+\u2022 A través del Decreto 1083 de 2015, “Decreto Único Reglamentario del Sector Función Pública”, (modificado por el Decreto 1499 de 2017) se promueve el mejoramiento continuo de las entidades públicas del país, garantizando un adecuado ambiente de control mediante la definición de responsabilidades en relación con las líneas de defensa del Modelo Estándar de Control Interno. Mediante Resolución No 1905 de 2019, se actualizó el Modelo Integrado de Gestión (MIG) del Ministerio/Fondo Único de Tecnologías de la Información y las Comunicaciones, acogiendo los lineamientos del Decreto 1499 de 2017 y estableciendo el Comité MIG como la instancia orientadora del Modelo, en donde se tratan los temas referentes a las dimensiones y políticas de gestión y desempeño Institucional. /n
+
+\u2022 De acuerdo con el numeral 14 del artículo 9 de la misma resolución, corresponde al Comité MIG aprobar y hacer seguimiento a las políticas de gestión y directrices en materia de Estrategia de gobierno digital y Seguridad de la Información en la Entidad.</string>
 
     <string name="notification_channel_group_general">General</string>
-    <string name="ip_pc">192.168.1.5</string>
-    <string name="ip_esp8266">192.168.1.7</string>
+    <string name="ip_pc">192.168.1.9</string>
+    <string name="ip_esp8266">192.168.1.10</string>
 
     <string name="esp8266_no_encendido">Oh, vaya. Flowerup no está encendido.</string>
     <string name="no_hay_plantas">Oh, vaya. No tienes plantas.</string>
     <string name="pc_no_encendido">Oh, vaya. Estás experimentando problemas con tu red.</string>
+
 </resources>
